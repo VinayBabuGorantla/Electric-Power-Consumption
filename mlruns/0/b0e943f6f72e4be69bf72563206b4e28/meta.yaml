@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/GitHub_Projects/Household_Electric_Power_Consumption/mlruns/0/b0e943f6f72e4be69bf72563206b4e28/artifacts
+end_time: 1745419667134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0e943f6f72e4be69bf72563206b4e28
+run_name: wistful-deer-603
+run_uuid: b0e943f6f72e4be69bf72563206b4e28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745419638375
+status: 3
+tags: []
+user_id: vinay

@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+packaging
+
+# Deep Learning
+tensorflow
+keras
+
+# MLOps
+dvc
+mlflow
+
+# Web App
+flask
+
+# Utilities
+joblib
+dill
+pyyaml
+
+# Testing
+pytest
+
+# Editable install
+-e .
