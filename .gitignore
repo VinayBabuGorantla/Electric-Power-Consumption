@@ -16,6 +16,9 @@ logs/
 *.log
 .dvc/
 venv/
+mlruns/
+mlflow.db
+
 
 # C extensions
 *.so

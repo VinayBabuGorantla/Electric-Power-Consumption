@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+artifacts/
+.dvc/
+.git/
+.gitignore
+*.dvc
+mlruns/
