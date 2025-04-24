@@ -1,0 +1,5 @@
+outs:
+- md5: 9322bd14dc384ae2c5a265e449d3a1f2
+  size: 233872
+  hash: md5
+  path: lstm_model.h5

@@ -1,0 +1,5 @@
+outs:
+- md5: d9f5a831f43d9bd3300e423031354583
+  size: 113851463
+  hash: md5
+  path: cleaned_power_consumption.csv
